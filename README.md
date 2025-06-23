@@ -10,11 +10,6 @@ A robust RESTful API for managing a complete library system, built with **Expres
 * 📦 GitHub Repository: `https://github.com/sakibkst/b5a3-library-management-expressjs.git`
 * 🌐 Deployed API: `https://b5a3-library-management.vercel.app/`
 
----
-
-Sure! Here's a more detailed and elaborated version of your **📖 Project Overview** section to better highlight the features and structure of your Library Management API:
-
----
 
 ## 📖 Project Overview 
 
